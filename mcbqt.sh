@@ -66,7 +66,7 @@ while true; do
 	"all the perfumes of arabia will not sweeten this little hand"
 	"divine than the physician"
 	"do breed unnatural troubles"
-	"As honour, love, obedience, troops of friends, i must not look to have, but in their stead curses, not loud but deep, mouth-honour, breath. Which the poor heart would fain deny and dare not"
+	"as honour, love, obedience, troops of friends, i must not look to have, but in their stead curses, not loud but deep, mouth-honour, breath. Which the poor heart would fain deny and dare not"
 	"bones my flesh be hacked"
 	"full with horrors"
 	"butcher and his fiend-like queen"
